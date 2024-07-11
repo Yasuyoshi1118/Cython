@@ -1,4 +1,4 @@
 # Cython
 
-[command]
- - python setup.py build_ext --inplace
+##[command]
+'python setup.py build_ext --inplace'
